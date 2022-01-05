@@ -1,0 +1,3 @@
+theshop
+wordpress786
+wp_theshop
